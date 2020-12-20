@@ -7,7 +7,7 @@
 <body>
 <h1>Welcome to my project</h1>
 
-<p> This is a test project</p>
+<p> This is a test project made by Maksym Matlo.</p>
 
 </body>
 </html>
